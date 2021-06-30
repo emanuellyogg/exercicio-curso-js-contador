@@ -1,0 +1,44 @@
+body {
+  background: rgb(248, 138, 49);
+  font: normal 20pt Arial;
+  margin: auto;
+}
+
+header {
+  color: rgb(255, 255, 255);
+  text-align: center;
+}
+
+section {
+  background: rgb(66, 222, 250);
+  font-size: 17pt;
+  border-radius: 10px;
+  padding: 10px;
+  width: 500px;
+  height: auto;
+  margin: auto;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.596);
+}
+
+#div-start {
+  margin-left: 15px;
+}
+
+#res {
+  margin-left: 15px;
+  margin-top: 20px;
+}
+
+#botao {
+  width: 80px;
+  padding: 7px;
+  border-radius: 8px;
+  border: none;
+  outline: none;
+}
+
+footer {
+  color: white;
+  text-align: center;
+  font-style: italic;
+}
